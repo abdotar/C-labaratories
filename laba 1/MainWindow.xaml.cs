@@ -20,7 +20,7 @@ using Microsoft.Win32;
 namespace laba_1
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для MainWindow.xaml проверка 1
     /// </summary>
     public partial class MainWindow : Window
     {

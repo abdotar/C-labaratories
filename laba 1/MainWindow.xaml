@@ -6,7 +6,7 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="51*"/>
             <ColumnDefinition Width="69*"/>
-            <ColumnDefinition Width="397*"/>
+            <ColumnDefinition Width="399*"/>
         </Grid.ColumnDefinitions>
         <Label Content="Количество элементов" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
         <TextBox Name="elements_tb" HorizontalAlignment="Left" Height="23" Margin="23,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="3"/>
